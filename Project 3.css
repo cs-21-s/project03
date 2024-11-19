@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f7e7a3;
+    color: #000000;
+}
+
+h1, h2, h3 {
+    color: #cc5858;
+}
+
+#feedback {
+    color: green;
+}
+
+#feedback.incorrect {
+    color: red;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 10px;
+}
